@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello!! My name is JoseRicardoRoso 
 
-<!--
-**josericardoroso/josericardoroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Graduated in 2016, with experience in industrial consulting, transportation and administrative management. Currently transitioning careers to the Technology field,specializing in tools such as Excel, Power BI, Python, and SQL.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" />
+                 
+- 👯 I am currently seeking an opportunity as a beginner data analyst.
+- 📫 How to reach me:
+- <a href="https://www.linkedin.com/in/josericardoroso" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:jroso1989@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
